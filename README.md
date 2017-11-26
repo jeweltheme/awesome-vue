@@ -1,10 +1,10 @@
-<p align="center">
-  <br>
-  ![alt text](https://jeweltheme.com/wp-content/uploads/2017/11/cover.jpg "Basix Admin - Vuejs Bootstrap Admin Dashboard Template")
 
+
+![alt text](https://jeweltheme.com/wp-content/uploads/2017/11/cover.jpg)
+## Basix Admin - VueJS Bootstrap v4 Admin Dashboard Template(https://github.com/jeweltheme/basix-admin)
   <br>
   <br>
-</p>
+
 
 ## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
