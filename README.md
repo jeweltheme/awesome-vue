@@ -1,6 +1,7 @@
 <p align="center">
   <br>
-  <img width="400" src="https://rawgit.com/vuejs/awesome-vue/master/logo.png" alt="awesome">
+  ![alt text](https://jeweltheme.com/wp-content/uploads/2017/11/cover.jpg "Basix Admin - Vuejs Bootstrap Admin Dashboard Template")
+
   <br>
   <br>
 </p>
@@ -1539,7 +1540,7 @@ Tooltips / popovers
 ### Client
 
 *Render Vue application in the browser only*
-
+  - [Basix Admin](https://github.com/jeweltheme/basix-admin) - VueJS Bootstrap v4 Admin Dashboard Template.
  - [Vue Plugin Boilerplate](https://github.com/kazupon/vue-plugin-boilerplate) - Boilerplate for Vue.js plugin.
  - [Bourgeon](https://github.com/rayfranco/bourgeon) - Bourgeon is an opinionated-featured VueJS 2.0 setup for Webpack.
  - [VuePack](https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron).
